@@ -1,3 +1,11 @@
+# About
+AmongUs is a paid game and needs to be bought either from Steam or Microsoft Store so this repo will basically allow you to play it for free.
+We want to clarify that we do not support or endorse hacking games. As a community, we believe in respecting the hard work and creativity of game developers. 
+Purchasing games not only helps support their passion but also allows them to continue creating amazing content.
+
+If you're unable to purchase a game due to financial constraints, then you can enjoy it from here :)
+Let's keep supporting creators and preserving the integrity of their work!
+
 # AmongUs PC Installation:
 DOWNLOAD THE AMONG US GAME FILE FROM THE LINK BELOW:      
 https://drive.google.com/file/d/1q1MIujCSKV4b1h53fPrFCQw34qrkQRpS/view?usp=sharing
