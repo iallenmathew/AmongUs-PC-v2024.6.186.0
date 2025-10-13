@@ -35,5 +35,3 @@ If I don't respond to an issue for more than a week, I probably forgot it existe
 # Contributing
 I doubt that anyone will actually make a pull request but if you decide to do that just make it, there's no format or anything
 
-# CREDITS
-https://online-fix.me/ - Game Files
